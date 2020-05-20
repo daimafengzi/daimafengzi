@@ -1,7 +1,7 @@
 !TITLE=daimafengzi
 !VER=202005201903
 !URL=https://github.com/daimafengzi/daimafengzi/new/master
-!TOTAL_LINES=33169
+!TOTAL_LINES=33
 ||acs.youku.com^
 ||fenbid.gsk-china.com^
 ||metrics.icloud.com^
